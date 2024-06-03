@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/Gamor/static/css/main.5b1433b3.css",
+    "main.js": "/Gamor/static/js/main.6cd25e02.js",
+    "static/js/787.28cb0dcd.chunk.js": "/Gamor/static/js/787.28cb0dcd.chunk.js",
+    "static/media/Strategy.jpg": "/Gamor/static/media/Strategy.90d62f6ca8e94dc30c1a.jpg",
+    "static/media/Arcade.jpg": "/Gamor/static/media/Arcade.29b2c3cad8b146740906.jpg",
+    "static/media/Sport.jpg": "/Gamor/static/media/Sport.6b753f18c4e276b20123.jpg",
+    "static/media/Action.jpg": "/Gamor/static/media/Action.3dc01e0f8ccc14d6781c.jpg",
+    "static/media/Fantasy.jpg": "/Gamor/static/media/Fantasy.63ad2dcd2655d9d1de7c.jpg",
+    "static/media/Adventure.jpg": "/Gamor/static/media/Adventure.de9078cd84a3e71f2067.jpg",
+    "static/media/Shooter.jpg": "/Gamor/static/media/Shooter.669d2642414b5674f8e2.jpg",
+    "static/media/Jhon.png": "/Gamor/static/media/Jhon.731a161b690d4d60a127.png",
+    "static/media/Start_Lord.png": "/Gamor/static/media/Start_Lord.c721613eecc42812c99b.png",
+    "static/media/Soldier.png": "/Gamor/static/media/Soldier.1b826f6b256ba317e4e5.png",
+    "static/media/Light.jpg": "/Gamor/static/media/Light.69e873779fe3f8c31c3a.jpg",
+    "static/media/Dark.jpg": "/Gamor/static/media/Dark.fa7aefce9aa5f259fe31.jpg",
+    "static/media/Add.png": "/Gamor/static/media/Add.28897befa1d52f656613.png",
+    "static/media/Settings.png": "/Gamor/static/media/Settings.9a1bfec6ec458ce4f495.png",
+    "index.html": "/Gamor/index.html",
+    "main.5b1433b3.css.map": "/Gamor/static/css/main.5b1433b3.css.map",
+    "main.6cd25e02.js.map": "/Gamor/static/js/main.6cd25e02.js.map",
+    "787.28cb0dcd.chunk.js.map": "/Gamor/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5b1433b3.css",
+    "static/js/main.6cd25e02.js"
+  ]
+}
