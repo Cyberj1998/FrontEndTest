@@ -1,0 +1,37 @@
+[
+    {
+        "game" : "fortnite",
+        "user" : ["jose","CybXX","Dark","StreamKing"],
+        "id" : "0"
+    },
+    {
+        "game" : "fifa",
+        "user" : ["djMario","Manuel","Messi"],
+        "id" : "1"
+    },
+    {
+        "game" : "god of war",
+        "user" : ["venruki","reckfull","Dark","FinalBoss"],
+        "id" : "2"
+    },
+    {
+        "game" : "shovel knight",
+        "user" : ["DrM","Azx55","Hunter","Kitty"],
+        "id" : "3"
+    },
+    {
+        "game" : "final fantasy",
+        "user" : ["mlo","XD","StreamCharlie","Ronald"],
+        "id" : "4"
+    },
+    {
+        "game" : "age of empires",
+        "user" : ["Zeus","Laz","TommyShelby","Xavier"],
+        "id" : "5"
+    },
+    {
+        "game" : "baldurs gate",
+        "user" : ["XOXO","Fight22","Envoy","Druid"],
+        "id" : "6"
+    }
+]
